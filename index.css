@@ -9,6 +9,10 @@ h1 {
   margin: 4px;
 }
 
+img {
+  width: 80vw;
+}
+
 nav {
   background-color: burlywood;
   border-bottom: 2px solid black;
@@ -20,4 +24,9 @@ nav {
 #dropdown {
   font-family: "Roboto Condensed", sans-serif;
   min-width: 200px;
+}
+
+#image-container {
+  display: flex;
+  justify-content: center;
 }
