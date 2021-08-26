@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  color : blue;
+  font-family: "Underdog", cursive;
+  margin: 4px;
+}
+
+nav {
+  background-color: burlywood;
+  border-bottom: 2px solid black;
+  display: flex;
+  justify-content: space-between;
+  padding: 6px;
+}
+
+#dropdown {
+  font-family: "Roboto Condensed", sans-serif;
+  min-width: 200px;
+}
